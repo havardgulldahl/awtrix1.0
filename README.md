@@ -1,4 +1,12 @@
-# AWTRIX
+# AWTRIX FORK
+
+Changes in this fork
+
+* [2019-03-22] Bugfixes/typos: #c3ddccbe0c7cb8300f3a98364bab371359432104
+
+
+
+# AWTRIX - original README below
 
 ![AWTRIX Preview](assets/awtrix.jpg?raw=true "AWTRIX")
 
